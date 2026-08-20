@@ -1,5 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31255221/README.md)
-
 # Unity Client Architecture Demo
 
 ## 專案說明
@@ -13,10 +11,10 @@
 
 ## 架構圖 & 流程圖
 * 類別圖
-![UnityClientArchitectureDemo-類別圖](https://hackmd.io/_uploads/HylBb4EDMe.png)
+   ![UnityClientArchitectureDemo-類別圖](https://hackmd.io/_uploads/HylBb4EDMe.png)
 
 * 架構流程圖
-![UnityClientArchitectureDemo-系統流程圖](https://hackmd.io/_uploads/BJ-LZVEwzx.png)
+   ![UnityClientArchitectureDemo-系統流程圖](https://hackmd.io/_uploads/BJ-LZVEwzx.png)
 
 ## 資料夾
 
@@ -39,6 +37,6 @@
 ## 執行
 
 1. 設置 File > Build Profiles > Scene List
-![image](https://hackmd.io/_uploads/rkFMB-mPGl.png)
+   ![image](https://hackmd.io/_uploads/rkFMB-mPGl.png)
 2. 執行任一 Scene：00_Init、01_Login、02_Home
 
