@@ -3,7 +3,7 @@
 ## 專案說明
 
 1. 此為一個 Unity Client 結合 MVP 和 Scene Controller 架構的 Demo 專案。
-2. 以拔除核心功能，僅保留 Singleton Service 實例、場景初始化及跳轉部分。
+2. 已拔除核心功能，僅保留 Singleton Service 實例、場景初始化及跳轉部分。
 
 ## 系統介面
 ![image](https://hackmd.io/_uploads/BJesmENvMx.png)
