@@ -1,21 +1,6 @@
 [README.md](https://github.com/user-attachments/files/31255221/README.md)
----
-title: UnityClientArchitectureDemo_readme
-tags: [Templates, Documentation]
 
----
-
----
-title: 'UnityClientArchitectureDemo_readme'
-disqus: hackmd
----
-
-Unity Client Architecture Demo
-===
-
-## 目錄
-
-[TOC]
+# Unity Client Architecture Demo
 
 ## 專案說明
 
