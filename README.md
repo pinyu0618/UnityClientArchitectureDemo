@@ -6,15 +6,15 @@
 2. 已拔除核心功能，僅保留 Singleton Service 實例、場景初始化及跳轉部分。
 
 ## 系統介面
-![image](https://hackmd.io/_uploads/BJesmENvMx.png)
+![UnityClientArchitectureDemo-UI](https://hackmd.io/_uploads/BJesmENvMx.png)
 
 
 ## 架構圖 & 流程圖
 * 類別圖  
    ![UnityClientArchitectureDemo-類別圖](https://hackmd.io/_uploads/HylBb4EDMe.png)
 
-* 架構流程圖  
-   ![UnityClientArchitectureDemo-系統流程圖](https://hackmd.io/_uploads/BJ-LZVEwzx.png)
+* 流程圖  
+   ![UnityClientArchitectureDemo-流程圖](https://hackmd.io/_uploads/BJ-LZVEwzx.png)
 
 ## 資料夾
 
@@ -37,6 +37,6 @@
 ## 執行
 
 1. 設置 File > Build Profiles > Scene List  
-   ![image](https://hackmd.io/_uploads/rkFMB-mPGl.png)
+   ![UnityClientArchitectureDemo-SceneSetting](https://hackmd.io/_uploads/rkFMB-mPGl.png)
 2. 執行任一 Scene：00_Init、01_Login、02_Home
 
